@@ -4,4 +4,3 @@
 - 🏫 Meng in Electrical and Computer Engineering (software development track) at [Duke University](https://ece.duke.edu/)
 - 💻 Java/C++/Python/Go
 - 📖 [My Notebook](https://charleschile.com) 👈
-- 📖 [My Blog (developing)](http://blog.charleschile.com/)
